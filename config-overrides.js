@@ -1,5 +1,5 @@
 /* config-overrides.js */
-const { useBabelRc, addExternalBabelPlugin, addBabelPlugin, override, useEslintRc } = require('customize-cra');
+const { useBabelRc, addExternalBabelPlugin, addBabelPlugin, override } = require('customize-cra');
 
 // module.exports = override(
 //   useBabelRc()
